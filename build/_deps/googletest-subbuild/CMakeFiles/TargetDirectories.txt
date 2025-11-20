@@ -1,0 +1,3 @@
+/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

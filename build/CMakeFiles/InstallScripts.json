@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/cmake_install.cmake",
+		"/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/user/Desktop/vscode/MAI/OOP/laba5_proj/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
